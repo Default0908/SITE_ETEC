@@ -10,7 +10,8 @@ Projeto em Laravel para estudo de formulários.
 ## Prints
 - Formulário
  
-<img width="951" height="481" alt="image" src="https://github.com/user-attachments/assets/b0060cf3-aa36-43d1-96af-c22ccd3751b3" />
+<img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/decc3576-c024-439e-85e2-d3518400bbc4" />
+
   
 - Resultado do var_dump($_GET)
   
@@ -18,4 +19,5 @@ Projeto em Laravel para estudo de formulários.
 
 - Rota fallback funcionando
 <img width="960" height="484" alt="image" src="https://github.com/user-attachments/assets/71acf7f4-b0ca-471e-bb0d-1f1525825d0e" />
+
 
